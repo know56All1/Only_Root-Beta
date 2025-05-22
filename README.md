@@ -12,8 +12,15 @@
 🎓You can encode the "victim.py" file into an .exe with pyinstaller🎓
 
 ---📼Installation in linux:📼---
-
+> apt install python3 
 > git clone https://github.com/know56All1/Only_Root-Beta.git
+> pip install REQUIREMENTS.txt 
+
+---📱Installation in termux:📱---
+> pkg install python3
+> pkg install git
+> git clone https://github.com/know56All1/Only_Root-Beta.git
+> pip install REQUIREMENTS.txt
 
 ---👀Images👀---
 
