@@ -37,3 +37,4 @@
 📥Wallet📥: lnbc1p5zea34pp5ddwla6lths0ydmjda89wdkdwa04uv2lxzzgu355v8qnh4klh2ayqdqqcqzzsxqzjcsp5q4apljrzmkx4a8j6c8j4vumcevtdlzkew5c8vtc84rq5ege7lslq9qxpqysgqlu8za4rjpehqmxzptfh6c04q28vvvnmz5mmls0e0vekn4y5tuel4m3tm5d9qs3dap8dwuyle75s3vtt28vapx44nvdmqx8d8fvqtl0cpgzwsla
 
 ---🐞Bugs🐞---
+🙏The script may have UNINTENTIONAL errors, if you see one please share it.🙏
