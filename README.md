@@ -44,5 +44,7 @@ Version: 0.0.0.2
 Updates: 
 
 *Fixed crash if there is no output
+
 *Improved the menu and implemented host customization without having to enter code
+
 *Improved error and output handling
