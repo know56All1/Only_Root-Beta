@@ -53,3 +53,5 @@ Updates:
 *Improved error and output handling
 
 *The buffer has been expanded to receive more information from the client
+
+*Now all instructions will be in English to avoid confusion.
