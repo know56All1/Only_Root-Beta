@@ -51,3 +51,5 @@ Updates:
 *Improved the menu and implemented host customization without having to enter code
 
 *Improved error and output handling
+
+*The buffer has been expanded to receive more information from the client
