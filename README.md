@@ -29,7 +29,9 @@
 
 ---👀Images👀---
 
-![Image](https://github.com/user-attachments/assets/a5c8516e-9cbd-4a9b-9c12-26a0d5909fc3)
+![Image](https://github.com/user-attachments/assets/dcc444b8-fcb4-4429-8e53-8e2a266cb377)
+
+![Image](https://github.com/user-attachments/assets/163a6435-2ea1-4429-aad7-25d445209e71)
 
 
 ---📊Donations📊---
