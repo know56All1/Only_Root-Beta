@@ -3,7 +3,7 @@
 
 🕵️‍♂️BackDoor-Reverse_shell🕵️‍♂️
 
-💻Version💻:0.0.0.1
+💻Version💻:0.0.0.2
 
 ---🖥Commands🖥---
 
@@ -38,3 +38,11 @@
 
 ---🐞Bugs🐞---
 🙏The script may have UNINTENTIONAL errors, if you see one please share it.🙏
+
+---📢New version📢---
+Version: 0.0.0.2 
+Updates: 
+
+*Fixed crash if there is no output
+*Improved the menu and implemented host customization without having to enter code
+*Improved error and output handling
