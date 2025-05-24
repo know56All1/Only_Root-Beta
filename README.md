@@ -9,7 +9,7 @@
 
 > python server.py
 
-🎓You can encode the "victim.py" file into an .exe with pyinstaller🎓
+🎓You can encode the "victim.py" file into an .exe with pyinstaller or auto-py-to-exe🎓
 
 ---📼Installation in linux:📼---
 > apt install python3
