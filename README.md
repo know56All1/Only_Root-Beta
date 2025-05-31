@@ -16,7 +16,7 @@
 
 > git clone https://github.com/know56All1/Only_Root-Beta.git
 
-> pip install REQUIREMENTS.txt 
+> pip install -r REQUIREMENTS.txt 
 
 ---📱Installation in termux:📱---
 > pkg install python3
@@ -25,7 +25,7 @@
 
 > git clone https://github.com/know56All1/Only_Root-Beta.git
 
-> pip install REQUIREMENTS.txt
+> pip install -r REQUIREMENTS.txt
 
 ---👀Images👀---
 
